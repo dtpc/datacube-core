@@ -59,3 +59,7 @@ Uses
 
 .. literalinclude:: recipes/line_transect.py
     :language: python
+
+
+
+.. include:: load_3d_dataset.rst
